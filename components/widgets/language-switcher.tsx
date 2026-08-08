@@ -40,15 +40,15 @@ export default function LanguageSwitcher() {
                         <span className={cn("mr-2 flex h-3.5 w-3.5 items-center justify-center")}>
                             {language === "en" && <Check className="h-3.5 w-3.5" />}
                         </span>
-                        <span className="text-xs tracking-widest uppercase">Brasil</span>
+                        <span className="text-xs tracking-widest uppercase">English</span>
                     </Link>
                 </DropdownMenuItem>
                 <DropdownMenuItem asChild className="rounded-xl cursor-pointer my-0.5 focus:bg-secondary">
-                    <Link href={getLocalizedPath("tr")}>
+                    <Link href={getLocalizedPath("pt")}>
                         <span className={cn("mr-2 flex h-3.5 w-3.5 items-center justify-center")}>
-                            {language === "tr" && <Check className="h-3.5 w-3.5" />}
+                            {language === "pt" && <Check className="h-3.5 w-3.5" />}
                         </span>
-                        <span className="text-xs tracking-widest uppercase">English</span>
+                        <span className="text-xs tracking-widest uppercase">Portuguese</span>
                     </Link>
                 </DropdownMenuItem>
             </DropdownMenuContent>
