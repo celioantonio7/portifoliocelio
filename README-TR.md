@@ -70,7 +70,7 @@ O projeto foi inspirado em interfaces modernas e experiências imersivas, priori
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-PORTFOLIO.git
+git clone https://github.com/celioantonio7/portifoliocelio
 ```
 
 Entre na pasta:
