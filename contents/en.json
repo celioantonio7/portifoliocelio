@@ -1,0 +1,140 @@
+{
+  "about": {
+    "intro": "**Desenvolvedor Full Stack** focado em criar sistemas **modernos, escaláveis e sustentáveis**.",
+    "description": "Sou apaixonado por **aprender novas tecnologias** e transformar ideias em soluções reais. Desenvolvo aplicações *web*, *desktop* e *mobile*, sempre priorizando desempenho, simplicidade e uma ótima experiência para o usuário.",
+    "full": "Olá, eu sou **Celio**. Estou envolvido com o desenvolvimento de software há alguns anos, principalmente como autodidata, aprendendo por meio dos meus próprios projetos e experimentos.\n\nAtualmente trabalho principalmente com desenvolvimento web, utilizando tecnologias como *React*, *TypeScript*, *Vite*, *Supabase*, *PostgreSQL*, *TailwindCSS*, *Electron*, *React Native* e *Expo*. Além disso, desenvolvo sistemas ERP, aplicações desktop e mobile, sempre com foco em desempenho, usabilidade e escalabilidade.\n\nSempre que surge uma nova tecnologia ou ferramenta, gosto de experimentá-la. Tenho paixão por aprender, e isso me leva constantemente a explorar novas áreas, frameworks e arquiteturas de software.\n\nDou muita importância para que meus projetos sejam **limpos, organizados e sustentáveis**. Sou um pouco **perfeccionista** nesse aspecto; às vezes acabo tornando algumas implementações mais complexas do que o necessário para manter um alto padrão de qualidade.\n\nMeu objetivo atual é me especializar em **backend, arquitetura de sistemas e desenvolvimento SaaS**, tornando meus projetos cada vez mais profissionais. Além disso, quero desenvolver meus próprios sistemas, bibliotecas e ferramentas simples, práticas e que resolvam problemas reais, especialmente por meio do **HappyCash ERP**."
+  },
+
+  "manifesto": [
+    "TRANSPARÊNCIA EM CADA PROJETO",
+    "CÓDIGO LIMPO E ORGANIZADO",
+    "ARQUITETURA ESCALÁVEL",
+    "APRENDIZADO CONTÍNUO",
+    "DESEMPENHO/COMPROMISSOS",
+    "TECNOLOGIA PARA RESOLVER PROBLEMAS REAIS"
+  ],
+
+  "projects": [
+    {
+      "id": "1",
+      "title": "HappyCash ERP",
+      "category": "Sistema ERP",
+      "year": "2026",
+      "description": "O HappyCash ERP é um sistema completo de gestão empresarial desenvolvido para atender pequenos e médios negócios. A plataforma reúne controle de vendas, PDV, estoque, financeiro, relatórios, clientes, crediário e muito mais em um único ambiente.\n\nO sistema foi projetado para oferecer desempenho, facilidade de uso e escalabilidade, contando com sincronização em nuvem, funcionamento offline, aplicações web, desktop e mobile, além de uma arquitetura preparada para crescer junto com o negócio dos clientes.",
+      "image": "/projects/happycoin.jpg",
+      "demo": "https://www.happycashsite.com.br",
+      "repo": "",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Vite",
+        "Supabase",
+        "PostgreSQL",
+        "Electron",
+        "React Native",
+        "Expo",
+        "TailwindCSS"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "HappyCash Food",
+      "category": "Cardápio Digital",
+      "year": "2025",
+      "description": "HappyCash Food é uma plataforma de cardápio digital desenvolvida para restaurantes, lanchonetes e pizzarias. Permite que os clientes realizem pedidos diretamente pelo celular através de QR Code, tornando o atendimento mais rápido e organizado.\n\nIntegrado ao ecossistema HappyCash, o sistema facilita o gerenciamento de pedidos e melhora a experiência tanto dos clientes quanto dos estabelecimentos.",
+      "image": "/projects/happycashfood1.png",
+      "demo": "",
+      "repo": "",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Supabase",
+        "TailwindCSS",
+        "Electron",
+        "Supabase",
+        "Expo"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "HappyCash Agenda",
+      "category": "Sistema de Agendamentos",
+      "year": "2026",
+      "description": "HappyCash Agenda é um sistema desenvolvido para facilitar o gerenciamento de horários e atendimentos em empresas que trabalham com agendamentos. A plataforma permite controlar clientes, serviços, profissionais e horários de forma simples e intuitiva.\n\nO objetivo é oferecer uma solução prática, moderna e integrada ao restante do ecossistema HappyCash.",
+      "image": "/projects/happycash-agenda.jpg",
+      "demo": "",
+      "repo": "",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Supabase",
+        "PostgreSQL",
+        "TailwindCSS",
+        "Electron",
+        "JavaScript"
+      ]
+    }
+  ],
+
+  "roadmap": [
+    {
+      "id": "01",
+      "year": "2022",
+      "description": "Foi nesse período que comecei a me interessar por desenvolvimento de software. Aprendi os fundamentos da programação, lógica e algoritmos, iniciando meus primeiros projetos e explorando diferentes tecnologias por conta própria.",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "02",
+      "year": "2023",
+      "description": "Passei a desenvolver aplicações web mais completas, aprofundando meus conhecimentos em front-end e banco de dados. Também comecei a criar meus primeiros sistemas voltados para gestão e automação de processos.",
+      "stack": [
+        "React",
+        "TypeScript",
+        "PostgreSQL",
+        "TailwindCSS"
+      ]
+    },
+    {
+      "id": "03",
+      "year": "2024",
+      "description": "Iniciei o desenvolvimento do HappyCash ERP, focando na criação de um sistema moderno de gestão empresarial. Durante esse período, evoluí bastante em arquitetura de aplicações, banco de dados e experiência do usuário.",
+      "stack": [
+        "React",
+        "Vite",
+        "Supabase",
+        "PostgreSQL",
+        "TailwindCSS"
+      ]
+    },
+    {
+      "id": "04",
+      "year": "2025",
+      "description": "Expandi o HappyCash para novas plataformas, desenvolvendo versões desktop e mobile. Também implementei funcionalidades como sincronização, autenticação, integração com pagamentos e recursos offline para oferecer uma experiência mais completa.",
+      "stack": [
+        "Electron",
+        "React Native",
+        "Expo",
+        "Supabase",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "05",
+      "year": "2026",
+      "description": "Atualmente meu foco é evoluir o HappyCash ERP como uma plataforma SaaS profissional, investindo em arquitetura de sistemas, escalabilidade, desempenho e desenvolvimento backend, enquanto continuo explorando novas tecnologias para criar soluções cada vez mais robustas.",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Supabase",
+        "PostgreSQL",
+        "Electron",
+        "React Native",
+        "Expo"
+      ]
+    }
+  ]
+}

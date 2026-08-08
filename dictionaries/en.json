@@ -1,0 +1,44 @@
+{
+    "nav": {
+        "home": "Início",
+        "about": "Sobre",
+        "stack": "Tecnologias",
+        "projects": "Projetos",
+        "roadmap": "Trajetória",
+        "contact": "Contato"
+    },
+    "title": {
+        "about": "Sobre",
+        "stack": "Tecnologias",
+        "projects": "Projetos",
+        "roadmap": "Trajetória",
+        "contact": "Contato"
+    },
+    "scrollDown": "Role para baixo",
+    "contactMe": "Entrar em Contato",
+    "exploreProjects": "Explorar Projetos",
+    "readFullVersion": "Ler Versão Completa",
+    "frontendStack": "Tecnologias Front-end",
+    "backendStack": "Tecnologias Back-end",
+    "databaseStack": "Banco de Dados & ORMs",
+    "toolsStack": "Ferramentas & Infraestrutura",
+    "projectsIntro": "Uma coleção de *projetos*, *soluções* e *produtos digitais* desenvolvidos com foco em **qualidade**, **desempenho** e **inovação**.",
+    "projectsScrollText": "Role para explorar",
+    "projectsEndText": "Fim",
+    "roadmapDescription": "Uma linha do tempo da minha evolução como desenvolvedor, mostrando minha experiência, projetos e as tecnologias que aprendi ao longo da jornada.",
+    "contactIntroText": "Seja para desenvolver um novo projeto, evoluir um sistema existente ou transformar uma ideia em realidade, vamos conversar.",
+    "sendEmail": "Enviar E-mail",
+    "directLine": "Contato Direto",
+    "allRightsReserved": "Todos os direitos reservados.",
+    "contactModalDescription": "Envie uma mensagem e responderei o mais breve possível.",
+    "projectDetails": "Detalhes do projeto",
+    "aboutProject": "Sobre o Projeto",
+    "technologies": "Tecnologias",
+    "liveDemo": "Ver Demonstração",
+    "sourceCode": "Código-Fonte",
+    "notFound": {
+        "title": "Página Não Encontrada",
+        "description": "A página que você procura pode ter sido removida, renomeada ou estar temporariamente indisponível.",
+        "goHome": "Voltar para o Início"
+    }
+}

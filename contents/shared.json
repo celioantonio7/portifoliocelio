@@ -1,0 +1,135 @@
+{
+    "contact": {
+        "location": "São José dos Campos - SP, Brasil",
+        "email": "celioantonio.dev@gmail.com",
+        "phone": "12988918792"
+    },
+    "social": [
+        {
+            "label": "GitHub",
+            "href": "https://github.com/celioantonio7"
+        },
+        {
+            "label": "Discord",
+            "href": ""
+        },
+        {
+            "label": "Instagram",
+            "href": "https://instagram.com/celioot7"
+        },
+        {
+            "label": "Linkedin",
+            "href": "https://www.linkedin.com/in/c%C3%A9lio-ant%C3%B4nio-585690362/"
+        }
+    ],
+    "stack": {
+        "frontend": [
+            {
+                "name": "React",
+                "icon": "/stack/react.svg",
+                "featured": true
+            },
+            {
+                "name": "Next.js",
+                "icon": "/stack/nextjs.svg",
+                "featured": true
+            },
+            {
+                "name": "Tailwind CSS",
+                "icon": "/stack/tailwindcss.svg",
+                "featured": true
+            },
+            {
+                "name": "Bootstrap",
+                "icon": "/stack/bootstrap.svg"
+            },
+            {
+                "name": "Framer Motion",
+                "icon": "/stack/framermotion.svg"
+            },
+            {
+                "name": "TypeScript",
+                "icon": "/stack/typescript.svg"
+            },
+            {
+                "name": "JavaScript",
+                "icon": "/stack/javascript.svg"
+            },
+            {
+                "name": "HTML5",
+                "icon": "/stack/html5.svg"
+            },
+            {
+                "name": "CSS3",
+                "icon": "/stack/css3.svg"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Node.js",
+                "icon": "/stack/nodejs.svg"
+            },
+            {
+                "name": "PHP",
+                "icon": "/stack/php.svg"
+            },
+            
+            {
+                "name": "ASP.NET",
+                "icon": "/stack/aspnet.svg"
+            },
+           
+            {
+                "name": "C#",
+                "icon": "/stack/csharp.svg"
+            },
+            {
+                "name": "Python",
+                "icon": "/stack/python.svg"
+            },
+            {
+                "name": "Discord.js",
+                "icon": "/stack/discordjs.svg"
+            }
+        ],
+        "database": [
+            {
+                "name": "PostgreSQL",
+                "icon": "/stack/postgresql.svg",
+                "featured": true
+            },
+            {
+                "name": "MySQL",
+                "icon": "/stack/mysql.svg",
+                "featured": true
+            },
+            {
+                "name": "MongoDB",
+                "icon": "/stack/mongodb.svg"
+            },
+            {
+                "name": "Prisma",
+                "icon": "/stack/prisma.svg"
+            },
+            {
+                "name": "Neon",
+                "icon": "/stack/neon.png"
+            }
+        ],
+        "tools": [
+            {
+                "name": "Git",
+                "icon": "/stack/git.svg"
+            },
+            {
+                "name": "Vercel",
+                "icon": "/stack/vercel.svg"
+            },
+            {
+                "name": "Tauri",
+                "icon": "/stack/tauri.svg"
+            }
+        ]
+    }
+}
+
