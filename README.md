@@ -122,32 +122,14 @@ http://localhost:3000
 Email
 
 ```
-happycashsupport@gmail.com
+celioantonio.dev@gmail.com
 ```
-
-Website
-
-```
-https://www.happycashsite.com.br
-```
-
-LinkedIn
-
-```
-Adicione seu LinkedIn
-```
-
-GitHub
-
 ```
 https://github.com/SEU-USUARIO
 ```
 
 ---
 
-# 📄 Licença
-
-Este projeto está licenciado sob a licença MIT.
 
 ---
 
