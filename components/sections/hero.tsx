@@ -4,7 +4,7 @@ import { useRef, useState, useCallback } from "react";
 import Image from "next/image";
 import { useScroll, useTransform, useMotionTemplate, motion } from "framer-motion";
 import { useLanguage } from "@/providers/language-provider";
-import { ArrowRight, Mouse } from "lucide-react";
+import { ArrowRight, Mouse, Download } from "lucide-react";
 import { ContactModal } from "@/components/modals/contact-modal";
 import { InteractiveParticles } from "@/components/effects/interactive-particles";
 
@@ -185,6 +185,18 @@ export default function Hero() {
                                 {dict.exploreProjects}
                             </span>
                         </button>
+
+                        <a
+                            href="/Curriculo_Celio.pdf"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="w-fit group relative flex h-12 xl:h-16 cursor-pointer items-center justify-center px-6 xl:px-10 text-muted-foreground transition-all duration-500 hover:text-foreground hover:bg-secondary/15 rounded-full border border-border sm:border-transparent hover:border-border/30 backdrop-blur-sm"
+                        >
+                            <span className="relative z-10 text-xs xl:text-base font-semibold tracking-[0.15em] uppercase flex items-center gap-2 xl:gap-3">
+                                <Download className="w-3.5 xl:w-5 h-3.5 xl:h-5 opacity-50 group-hover:opacity-100 transition-opacity" />
+                                Download CV
+                            </span>
+                        </a>
                     </div>
                 </div>
 
