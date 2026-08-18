@@ -187,7 +187,7 @@ export default function Hero() {
                         </button>
 
                         <a
-                            href="/Curriculo_Celio.pdf"
+                            href="/Celiocurriculo.pdf"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="w-fit group relative flex h-12 xl:h-16 cursor-pointer items-center justify-center px-6 xl:px-10 text-muted-foreground transition-all duration-500 hover:text-foreground hover:bg-secondary/15 rounded-full border border-border sm:border-transparent hover:border-border/30 backdrop-blur-sm"
