@@ -66,7 +66,45 @@
 "PostgreSQL",
 "TailwindCSS"
 ]
-}
+},
+{
+      "id": "4",
+      "title": "Celio Portfolio",
+      "category": "My Portfolio",
+      "year": "2026",
+      "description": "Celio's Portfolio is a personal project developed to showcase my work and skills as a developer. The platform presents my projects, experiences, and knowledge in a modern and intuitive interface.\n\nThe goal is to offer a practical, modern, and integrated solution within the HappyCash ecosystem.",
+      "image": "/projects/celiohappycash.webp",
+      "demo": "https://portifoliocelio.vercel.app/pt",
+      "repo": "https://github.com/celioantonio7/portifoliocelio",
+      "stack": [
+        "React",
+        "TypeScript",
+        "",
+        "",
+        "TailwindCSS",
+        "GSAP",
+        "next"
+      ]
+    },
+{
+      "id": "5",
+      "title": "GS Emprestimos",
+      "category": "My Portfolio",
+      "year": "2026",
+      "description": "GsEmprestimos is a web platform for **managing credit operations**, designed to centralize clients, contracts, installments, payments, and financial information in a single environment.",
+      "image": "/projects/favicon.png",
+      "demo": "https://gsemprestimos.vercel.app/",
+      "repo": "https://github.com/celioantonio7/gsemprestimos",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Supabase",
+        "PostgreSQL",
+        "TailwindCSS",
+        "GSAP",
+        "next"
+      ]
+    }
 ],
 "roadmap": [
 {

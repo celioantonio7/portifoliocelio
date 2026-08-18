@@ -21,7 +21,7 @@
       "category": "Sistema ERP",
       "year": "2026",
       "description": "O HappyCash ERP é um sistema completo de gestão empresarial desenvolvido para atender pequenos e médios negócios. A plataforma reúne controle de vendas, PDV, estoque, financeiro, relatórios, clientes, crediário e muito mais em um único ambiente.\n\nO sistema foi projetado para oferecer desempenho, facilidade de uso e escalabilidade, contando com sincronização em nuvem, funcionamento offline, aplicações web, desktop e mobile, além de uma arquitetura preparada para crescer junto com o negócio dos clientes.",
-      "image": "/projects/happycoin.jpg",
+      "image": "/projects/happycashlogonovo.png",
       "demo": "https://www.happycashsite.com.br",
       "repo": "",
       "stack": [
@@ -44,7 +44,7 @@
       "description": "HappyCash Food é uma plataforma de cardápio digital desenvolvida para restaurantes, lanchonetes e pizzarias. Permite que os clientes realizem pedidos diretamente pelo celular através de QR Code, tornando o atendimento mais rápido e organizado.\n\nIntegrado ao ecossistema HappyCash, o sistema facilita o gerenciamento de pedidos e melhora a experiência tanto dos clientes quanto dos estabelecimentos.",
       "image": "/projects/happycashfood1.png",
       "demo": "",
-      "repo": "",
+      "repo": "https://github.com/celioantonio7/HappyCashFood",
       "stack": [
         "React",
         "TypeScript",
@@ -61,8 +61,8 @@
       "category": "Sistema de Agendamentos",
       "year": "2026",
       "description": "HappyCash Agenda é um sistema desenvolvido para facilitar o gerenciamento de horários e atendimentos em empresas que trabalham com agendamentos. A plataforma permite controlar clientes, serviços, profissionais e horários de forma simples e intuitiva.\n\nO objetivo é oferecer uma solução prática, moderna e integrada ao restante do ecossistema HappyCash.",
-      "image": "/projects/happycash-agenda.jpg",
-      "demo": "",
+      "image": "/projects/favicon.ico",
+      "demo": "https://github.com/celioantonio7/HappyCashAgenda",
       "repo": "",
       "stack": [
         "React",
@@ -73,8 +73,47 @@
         "Electron",
         "JavaScript"
       ]
+    },
+    {
+      "id": "4",
+      "title": "Celio Portfolio",
+      "category": "Meu Portfólio",
+      "year": "2026",
+      "description": "O Celio's Portfolio é um projeto pessoal desenvolvido para mostrar meu trabalho e habilidades como desenvolvedor. A plataforma apresenta meus projetos, experiências e conhecimentos em uma interface moderna e intuitiva.\n\nO objetivo é oferecer uma solução prática, moderna e integrada ao restante do ecossistema HappyCash.",
+      "image": "/projects/celiohappycash.webp",
+      "demo": "https://portifoliocelio.vercel.app/pt",
+      "repo": "https://github.com/celioantonio7/portifoliocelio",
+      "stack": [
+        "React",
+        "TypeScript",
+        "",
+        "",
+        "TailwindCSS",
+        "GSAP",
+        "next"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "GS Emprestimos",
+      "category": "Meu Portfólio",
+      "year": "2026",
+      "description": "GsEmprestimos Plataforma web para **gestão de operações de crédito**, desenvolvida para centralizar clientes, contratos, parcelas, pagamentos e informações financeiras em um único ambiente.",
+      "image": "/projects/favicon.png",
+      "demo": "https://gsemprestimos.vercel.app/",
+      "repo": "https://github.com/celioantonio7/gsemprestimos",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Supabase",
+        "PostgreSQL",
+        "TailwindCSS",
+        "GSAP",
+        "next"
+      ]
     }
   ],
+  
 
   "roadmap": [
     {
