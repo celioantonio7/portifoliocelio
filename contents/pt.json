@@ -86,8 +86,8 @@
       "stack": [
         "React",
         "TypeScript",
-        "",
-        "",
+        "Lenis",
+        "framer,motion",
         "TailwindCSS",
         "GSAP",
         "next"
@@ -111,6 +111,33 @@
         "GSAP",
         "next"
       ]
+    },
+     {
+  "id": "6",
+  "title": "Lucas.exe — Portfólio Interativo",
+  "category": "Portfólio Web",
+  "year": "2026",
+  "description": "Portfólio pessoal interativo desenvolvido com Next.js, explorando animações, transições e navegação fluida para criar uma experiência visual inspirada em interfaces de terminal e sistemas retrô.",
+  "image": "/projects/lucaslanding.png",
+  "demo": "https://lucas-landingpage.vercel.app/",
+  "repo": "https://github.com/celioantonio7/lucas-landingpage",
+  "stack": [
+    "Next.js",
+    "React",
+    "GSAP",
+    "Lenis"
+  ]
+},
+     {
+      "id": "7",
+      "title": "Landing Page — Rafael Monteiro Advocacia",
+      "category": "Meu Portfólio",
+      "year": "2026",
+      "description": "Landing page institucional para escritório de advocacia, desenvolvida para transmitir autoridade e profissionalismo por meio de animações imersivas, rolagem fluida, elementos interativos e uma experiência visual sofisticada.",
+      "image": "/projects/rafaelmonteiro.png",
+      "demo": "https://rafael-monteiro-landing.vercel.app/",
+      "repo": "",
+     "stack": [ "React", "TypeScript", "Next.js", "Tailwind CSS", "GSAP", "Framer Motion", "Lenis", "Three.js", "React Three Fiber", "Radix UI" ]
     }
   ],
   

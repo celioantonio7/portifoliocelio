@@ -104,7 +104,34 @@
         "GSAP",
         "next"
       ]
-    }
+    },
+    {
+  "id": "6",
+  "title": "Lucas.exe — Interactive Portfolio",
+  "category": "Web Portfolio",
+  "year": "2026",
+  "description": "Interactive personal portfolio built with Next.js, featuring smooth navigation, dynamic animations, and a retro terminal-inspired interface to showcase the developer's experience, skills, and projects.",
+  "image": "/projects/lucaslanding.png",
+  "demo": "https://lucas-landingpage.vercel.app/",
+  
+  "stack": [
+    "Next.js",
+    "React",
+    "GSAP",
+    "Lenis"
+  ]
+},
+{
+      "id": "7",
+      "title": "Landing Page — Rafael Monteiro Advocacia",
+      "category": "My Portfolio",
+      "year": "2026",
+      "description": "Premium landing page for a law firm, designed to establish a strong professional identity through immersive animations, smooth scrolling, interactive UI elements, and a refined visual experience.",
+      "image": "/projects//rafaelmonteiro.png",
+      "demo": "https://rafael-monteiro-landing.vercel.app/",
+      
+      "stack": [ "React", "TypeScript", "Next.js", "Tailwind CSS", "GSAP", "Framer Motion", "Lenis", "Three.js", "React Three Fiber", "Radix UI" ]
+}
 ],
 "roadmap": [
 {
