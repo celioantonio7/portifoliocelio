@@ -138,6 +138,25 @@
       "demo": "https://rafael-monteiro-landing.vercel.app/",
       "repo": "",
      "stack": [ "React", "TypeScript", "Next.js", "Tailwind CSS", "GSAP", "Framer Motion", "Lenis", "Three.js", "React Three Fiber", "Radix UI" ]
+    },
+    {
+      "id": "8",
+      "title": "Landing Page — Alex Vance",
+      "category": "Portfólio Web",
+      "year": "2026",
+      "description": "CYBER é um portfólio de cibersegurança interativo e de alto nível, desenvolvido para pesquisadores de segurança, pentesters, profissionais de Red Team e hackers éticos que desejam apresentar seus trabalhos com estilo e sofisticação.",
+      "image": "/projects/alexvance.png",
+      "demo": "https://portfoliohacker.vercel.app/#home",
+      "repo": "",
+      "stack": [
+        "Rajdhani Font",
+        "Share Tech Mono",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "JavaScript Vanilla",
+        "Pixel Web"
+      ]
     }
   ],
   
