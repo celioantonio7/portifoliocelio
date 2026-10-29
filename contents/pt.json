@@ -62,7 +62,7 @@
       "year": "2026",
       "description": "HappyCash Agenda é um sistema desenvolvido para facilitar o gerenciamento de horários e atendimentos em empresas que trabalham com agendamentos. A plataforma permite controlar clientes, serviços, profissionais e horários de forma simples e intuitiva.\n\nO objetivo é oferecer uma solução prática, moderna e integrada ao restante do ecossistema HappyCash.",
       "image": "/projects/favicon.ico",
-      "demo": "https://github.com/celioantonio7/HappyCashAgenda",
+      "demo": "https://celioantonio7.github.io/HappyCashAgenda/",
       "repo": "",
       "stack": [
         "React",
